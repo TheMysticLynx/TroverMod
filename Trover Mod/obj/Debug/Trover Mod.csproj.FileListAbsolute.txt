@@ -1,0 +1,11 @@
+/Users/mystic/Projects/C#/Trover Mod/Trover Mod/bin/Debug/Trover_Mod.dll
+/Users/mystic/Projects/C#/Trover Mod/Trover Mod/bin/Debug/Trover_Mod.pdb
+/Users/mystic/Projects/C#/Trover Mod/Trover Mod/bin/Debug/UnityEngine.dll
+/Users/mystic/Projects/C#/Trover Mod/Trover Mod/bin/Debug/UnityEngine.pdb
+/Users/mystic/Projects/C#/Trover Mod/Trover Mod/bin/Debug/UnityEngine.xml
+/Users/mystic/Projects/C#/Trover Mod/Trover Mod/obj/Debug/Trover Mod.csproj.AssemblyReference.cache
+/Users/mystic/Projects/C#/Trover Mod/Trover Mod/obj/Debug/Trover Mod.csproj.CoreCompileInputs.cache
+/Users/mystic/Projects/C#/Trover Mod/Trover Mod/obj/Debug/Trover Mod.csproj.CopyComplete
+/Users/mystic/Projects/C#/Trover Mod/Trover Mod/obj/Debug/Trover_Mod.dll
+/Users/mystic/Projects/C#/Trover Mod/Trover Mod/obj/Debug/Trover_Mod.pdb
+/Users/mystic/Projects/C#/Trover Mod/Trover Mod/bin/Debug/IndevModdingInterface.dll
