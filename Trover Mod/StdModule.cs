@@ -7,8 +7,8 @@ using Modding;
 public class Mod : IMod
 {
     public static Interface Interface;
-    public string UniqueName => "Trover Mod";
-    public string DisplayName => "MysticTroversX554235";
+    public string UniqueName => "302b35d1-050c-4481-b232-30877b58a72d-Mystic-Trover";
+    public string DisplayName => "Trover Mod";
     public string Author => "Mystic";
     public string Version => "2.0";
     public string Description => "Adds the trash mover to the game!";
@@ -28,6 +28,7 @@ public class Mod : IMod
         yield return new CWRotateProcessor(cellGrid);
         yield return new CCWRotateProcessor(cellGrid);
         yield return new MoverCellProcessor(cellGrid);
+        yield return new TrashMover(cellGrid);
         yield return new WallCellProcessor(cellGrid);
         yield return new TrashCellProcessor(cellGrid);
         yield return new EnemyCellProcessor(cellGrid);
